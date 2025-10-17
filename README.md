@@ -84,3 +84,14 @@ we've worked with.
 
 ![build-your-own-radar-google-sheet.png](build-your-own-radar-google-sheet.png)
 
+## Spec-Driven Development
+
+[Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
+
+Like with many emerging terms in this fast-paced space, the definition of “spec-driven development” (SDD) is still in flux. Here’s what I can gather from how I have seen it used so far: Spec-driven development means writing a “spec” before writing code with AI (“documentation first”). The spec becomes the source of truth for the human and the AI. - Thoughtworks
+
+## Risk matrix
+
+![risk-matrix-example](risk-matrix-example.png)
+
+[Principles for assessing and managing risks across integrated care systems](https://www.england.nhs.uk/long-read/principles-for-assessing-and-managing-risks-across-integrated-care-systems/)
