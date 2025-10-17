@@ -33,9 +33,13 @@ Many companies create their own internal technology radars tailored to their spe
 
 ## Thoughworks Technology Radar - excerpts
 
+This is the current Thoughtworks Technology Radar:
+
 <https://www.thoughtworks.com/en-gb/radar>
 
-### Prompt-to-code
+This includes many AI aspects and many non-AI aspects. Two of these that especially interest me are AI prompt-to-code and Observability with OpenTelemetry.
+
+### AI prompt-to-code
 
 More and more AI tools allow developers to drive implementation directly from an
 AI chat within their IDE — a mode also called “agentic”, “prompt-to-code” or
@@ -44,10 +48,15 @@ answering questions or generating small snippets; they navigate and modify code,
 update tests, execute commands and, in some cases, proactively fix linting and
 compilation errors. - Thoughtworks
 
-### Observability
+I'm using these tools daily to help me write code, read code, and learn about
+coding practices. I am getting the best results currently with Claude, followed
+by GPT and Jules. I'm especially liking Claude Skills, which helps tune prompts.
+
+### Observability with OpenTelemetry
 
 The increasing adoption of OpenTelemetry is fostering a more standardized
 observability landscape, enabling teams to remain vendor-agnostic and more
 flexible in their tooling choices. Many leading observability tools — such as
 Alloy, Tempo and Loki — now support OpenTelemetry. - Thoughtworks
 
+I'm aiming to use OpenTelemetry for a wide range of software engineering, including application monitoring, feature impact measurement, continuous delivery metrics, and improved debugging across spans and products. In my experiments so far, AI plays a large part in helping OpenTelemetry work well with Grafana visualizations such as data dashboards.
