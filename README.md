@@ -92,6 +92,28 @@ Like with many emerging terms in this fast-paced space, the definition of “spe
 
 ## Risk matrix
 
+<https://en.wikipedia.org/wiki/Risk_matrix>
+
+A risk matrix is a matrix that is used during risk assessment to define the level of risk by considering the category of likelihood (often confused with one of its possible quantitative metrics, i.e. the probability) against the category of consequence severity. This is a simple mechanism to increase visibility of risks and assist management decision making.[1]
+
+The risk matrix has been widely used across various sectors such as the military, aviation, pharmaceuticals, maintenance, printing and publishing, cybersecurity, offshore operations, electronics, packaging, and industrial engineering. Several recent studies have shown that the assessment of risk matrices has increasingly shifted from qualitative to quantitative methods, particularly in manufacturing and production processes.
+
 ![risk-matrix-example](risk-matrix-example.png)
 
+## Risks for integrated care
+
 [Principles for assessing and managing risks across integrated care systems](https://www.england.nhs.uk/long-read/principles-for-assessing-and-managing-risks-across-integrated-care-systems/)
+
+Excerpts…
+
+The people, teams, services and organisations involved from across NHS, local authority and voluntary, community and social enterprise (VCSE) partners must be able to answer questions such as: 
+
+- do we have a sufficiently good understanding of the risk profile and mitigating actions within and across our organisations, pathways, services and places or are there emerging risks that are not being addressed?
+
+- are all staff clear and sighted on the organisation and local system approach to risk sharing and what that means for individual staff and staff groups? 
+
+- how do we best work together as organisations across a place, integrated care system and partnership to manage risks?
+  
+- how do risks across the pathway/organisations in our system aggregate and interrelate to impact on the overall summarised risk profile presented?
+
+To answer these questions, it is important to consider risks from the perspective of different organisational/outcome lenses to understand connectivity and where resources should best be applied, and to support decision-making in rapidly changing and multi-factorial situations where collaborative solutions may be required to achieve a risk reduction across the system.
